@@ -1,0 +1,9 @@
+Assembly Name: LR_12
+Contains public constructors: false
+Fields and properties:
+	name
+	workingLife
+	description
+Implemented interfaces:
+	Discounts
+Methods with System.Exception param:

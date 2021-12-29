@@ -1,0 +1,106 @@
+Assembly Name: System.Private.CoreLib
+Contains public constructors: true
+Public constructors:
+	Void .ctor(Char[])
+	Void .ctor(Char[], Int32, Int32)
+	Void .ctor(Char*)
+	Void .ctor(Char*, Int32, Int32)
+	Void .ctor(SByte*)
+	Void .ctor(SByte*, Int32, Int32)
+	Void .ctor(SByte*, Int32, Int32, System.Text.Encoding)
+	Void .ctor(Char, Int32)
+	Void .ctor(System.ReadOnlySpan`1[System.Char])
+Fields and properties:
+	_stringLength
+	_firstChar
+	Empty
+Implemented interfaces:
+	IComparable
+	IEnumerable
+	IConvertible
+	IEnumerable`1
+	IComparable`1
+	IEquatable`1
+	ICloneable
+Methods with System.String param:
+	Replace
+	Replace
+	ReplaceCore
+	Replace
+	ReplaceHelper
+	Split
+	Split
+	SplitInternal
+	SplitInternal
+	MakeSeparatorList
+	Contains
+	Contains
+	IndexOf
+	IndexOf
+	IndexOf
+	IndexOf
+	IndexOf
+	IndexOf
+	LastIndexOf
+	LastIndexOf
+	LastIndexOf
+	LastIndexOf
+	LastIndexOf
+	LastIndexOf
+	<GetNonRandomizedHashCodeOrdinalIgnoreCase>g__GetNonRandomizedHashCodeOrdinalIgnoreCaseSlow|52_0
+	FillStringChecked
+	Concat
+	Concat
+	Concat
+	Format
+	Format
+	Format
+	Format
+	Format
+	Format
+	Format
+	Format
+	FormatHelper
+	Insert
+	Join
+	Join
+	Join
+	Join
+	Join
+	Intern
+	IsInterned
+	InternalCopy
+	EqualsHelper
+	CompareOrdinalHelper
+	EqualsOrdinalIgnoreCase
+	EqualsOrdinalIgnoreCaseNoLengthCheck
+	CompareOrdinalHelper
+	Compare
+	Compare
+	Compare
+	Compare
+	Compare
+	Compare
+	Compare
+	Compare
+	Compare
+	Compare
+	CompareOrdinal
+	CompareOrdinal
+	CompareTo
+	EndsWith
+	EndsWith
+	EndsWith
+	Equals
+	Equals
+	Equals
+	Equals
+	op_Equality
+	op_Inequality
+	StartsWith
+	StartsWith
+	StartsWith
+	op_Implicit
+	Copy
+	IsNullOrEmpty
+	IsNullOrWhiteSpace
