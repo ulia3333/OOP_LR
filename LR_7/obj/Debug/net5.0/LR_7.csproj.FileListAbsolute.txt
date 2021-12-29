@@ -1,0 +1,5 @@
+D:\Учеба\2_курс\ООП\LR\LR_7\obj\Debug\net5.0\LR_7.csproj.AssemblyReference.cache
+D:\Учеба\2_курс\ООП\LR\LR_7\obj\Debug\net5.0\LR_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2_курс\ООП\LR\LR_7\obj\Debug\net5.0\LR_7.AssemblyInfoInputs.cache
+D:\Учеба\2_курс\ООП\LR\LR_7\obj\Debug\net5.0\LR_7.AssemblyInfo.cs
+D:\Учеба\2_курс\ООП\LR\LR_7\obj\Debug\net5.0\LR_7.csproj.CoreCompileInputs.cache
