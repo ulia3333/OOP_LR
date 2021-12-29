@@ -1,0 +1,14 @@
+D:\ООП\Лабораторная №15\Lr15\Lr15\bin\Debug\Lr15.exe.config
+D:\ООП\Лабораторная №15\Lr15\Lr15\bin\Debug\Lr15.exe
+D:\ООП\Лабораторная №15\Lr15\Lr15\bin\Debug\Lr15.pdb
+D:\ООП\Лабораторная №15\Lr15\Lr15\obj\Debug\Lr15.csproj.AssemblyReference.cache
+D:\ООП\Лабораторная №15\Lr15\Lr15\obj\Debug\Lr15.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторная №15\Lr15\Lr15\obj\Debug\Lr15.exe
+D:\ООП\Лабораторная №15\Lr15\Lr15\obj\Debug\Lr15.pdb
+D:\2K\ООП\Lr15\Lr15\bin\Debug\Lr15.exe.config
+D:\2K\ООП\Lr15\Lr15\bin\Debug\Lr15.exe
+D:\2K\ООП\Lr15\Lr15\bin\Debug\Lr15.pdb
+D:\2K\ООП\Lr15\Lr15\obj\Debug\Lr15.csproj.AssemblyReference.cache
+D:\2K\ООП\Lr15\Lr15\obj\Debug\Lr15.csproj.CoreCompileInputs.cache
+D:\2K\ООП\Lr15\Lr15\obj\Debug\Lr15.exe
+D:\2K\ООП\Lr15\Lr15\obj\Debug\Lr15.pdb

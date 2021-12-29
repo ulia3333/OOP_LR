@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<children>
+  <child lastname="Максимов">
+    <firstname>Миша</firstname>
+    <old>7</old>
+  </child>
+  <child lastname="Максимова">
+    <firstname>Алиса</firstname>
+    <old>5</old>
+  </child>
+  <child lastname="Миронова">
+    <firstname>Маша</firstname>
+    <old>5</old>
+  </child>
+</children>

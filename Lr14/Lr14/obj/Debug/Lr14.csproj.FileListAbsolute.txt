@@ -1,0 +1,14 @@
+D:\ООП\Lr14\Lr14\bin\Debug\Lr14.exe.config
+D:\ООП\Lr14\Lr14\bin\Debug\Lr14.exe
+D:\ООП\Lr14\Lr14\bin\Debug\Lr14.pdb
+D:\ООП\Lr14\Lr14\obj\Debug\Lr14.csproj.AssemblyReference.cache
+D:\ООП\Lr14\Lr14\obj\Debug\Lr14.csproj.CoreCompileInputs.cache
+D:\ООП\Lr14\Lr14\obj\Debug\Lr14.exe
+D:\ООП\Lr14\Lr14\obj\Debug\Lr14.pdb
+D:\2K\ООП\Lr14\Lr14\bin\Debug\Lr14.exe.config
+D:\2K\ООП\Lr14\Lr14\bin\Debug\Lr14.exe
+D:\2K\ООП\Lr14\Lr14\bin\Debug\Lr14.pdb
+D:\2K\ООП\Lr14\Lr14\obj\Debug\Lr14.csproj.AssemblyReference.cache
+D:\2K\ООП\Lr14\Lr14\obj\Debug\Lr14.csproj.CoreCompileInputs.cache
+D:\2K\ООП\Lr14\Lr14\obj\Debug\Lr14.exe
+D:\2K\ООП\Lr14\Lr14\obj\Debug\Lr14.pdb

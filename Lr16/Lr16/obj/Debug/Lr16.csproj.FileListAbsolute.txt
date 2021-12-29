@@ -1,0 +1,7 @@
+D:\ООП\Лабораторная №16\Lr16\Lr16\bin\Debug\Lr16.exe.config
+D:\ООП\Лабораторная №16\Lr16\Lr16\bin\Debug\Lr16.exe
+D:\ООП\Лабораторная №16\Lr16\Lr16\bin\Debug\Lr16.pdb
+D:\ООП\Лабораторная №16\Lr16\Lr16\obj\Debug\Lr16.csproj.AssemblyReference.cache
+D:\ООП\Лабораторная №16\Lr16\Lr16\obj\Debug\Lr16.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторная №16\Lr16\Lr16\obj\Debug\Lr16.exe
+D:\ООП\Лабораторная №16\Lr16\Lr16\obj\Debug\Lr16.pdb
