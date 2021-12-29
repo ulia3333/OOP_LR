@@ -1,0 +1,16 @@
+D:\Учеба\2_курс\ООП\LR\LR_10\bin\Debug\net5.0\LR_10.exe
+D:\Учеба\2_курс\ООП\LR\LR_10\bin\Debug\net5.0\LR_10.deps.json
+D:\Учеба\2_курс\ООП\LR\LR_10\bin\Debug\net5.0\LR_10.runtimeconfig.json
+D:\Учеба\2_курс\ООП\LR\LR_10\bin\Debug\net5.0\LR_10.runtimeconfig.dev.json
+D:\Учеба\2_курс\ООП\LR\LR_10\bin\Debug\net5.0\LR_10.dll
+D:\Учеба\2_курс\ООП\LR\LR_10\bin\Debug\net5.0\ref\LR_10.dll
+D:\Учеба\2_курс\ООП\LR\LR_10\bin\Debug\net5.0\LR_10.pdb
+D:\Учеба\2_курс\ООП\LR\LR_10\obj\Debug\net5.0\LR_10.csproj.AssemblyReference.cache
+D:\Учеба\2_курс\ООП\LR\LR_10\obj\Debug\net5.0\LR_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2_курс\ООП\LR\LR_10\obj\Debug\net5.0\LR_10.AssemblyInfoInputs.cache
+D:\Учеба\2_курс\ООП\LR\LR_10\obj\Debug\net5.0\LR_10.AssemblyInfo.cs
+D:\Учеба\2_курс\ООП\LR\LR_10\obj\Debug\net5.0\LR_10.csproj.CoreCompileInputs.cache
+D:\Учеба\2_курс\ООП\LR\LR_10\obj\Debug\net5.0\LR_10.dll
+D:\Учеба\2_курс\ООП\LR\LR_10\obj\Debug\net5.0\ref\LR_10.dll
+D:\Учеба\2_курс\ООП\LR\LR_10\obj\Debug\net5.0\LR_10.pdb
+D:\Учеба\2_курс\ООП\LR\LR_10\obj\Debug\net5.0\LR_10.genruntimeconfig.cache

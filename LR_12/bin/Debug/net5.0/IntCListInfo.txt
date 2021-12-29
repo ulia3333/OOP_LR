@@ -1,0 +1,7 @@
+Assembly Name: LR_12
+Contains public constructors: true
+Public constructors:
+	Void .ctor()
+Fields and properties:
+Implemented interfaces:
+Methods with System.Int32 param:
